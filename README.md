@@ -21,6 +21,8 @@ The purpose of this project is to assist the nonprofit foundation Alphabet Soup 
 Reason to choose the model: Experimenting with different neuron counts.  
 
 2. Were you able to achieve the target model performance? – I was unable to achieve 75% accuracy.
+![image](https://github.com/elliszimmer/deep-learning-challenge/assets/126611342/f82d0e14-aa08-4a1a-adc9-2c794ec22db6)
+
 
 3. What steps did you take in your attempts to increase model performance? – I removed extra features ‘STATUS’, ‘SPECIAL_CONSIDERATIONS’, and ‘ASK_AMT’. For attempt number 1, I ran the code again and get the accuracy of 72.43%. Then, for attempt number 2, I changed the activation function of the hidden layers to “tanh” and output function to “relu”. For the last attempt, I add additional layer with 30 neurons. Activation functions for all hidden layer is “tanh” and output layer is “relu”. 4. 
 
